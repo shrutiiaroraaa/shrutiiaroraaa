@@ -9,7 +9,8 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 
 - 🍎 Campus Leader at Code For Cause
 - 🎬 Podcast Host @Atypical Tuesday
-- 👨🏻‍💻 Technical intern at Hariputra Associates
+- 👨🏻‍💻 Technical member at The Everyday Community
+-   Chapter Member at The Girl Code
 - 🔭 python Enthusiast
 
 
