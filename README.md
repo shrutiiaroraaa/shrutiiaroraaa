@@ -30,7 +30,9 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 - 👨🏻‍💻 Technical member at The Everyday Community
 -   Chapter Member at The Girl Code
 
-
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
 
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=shrutiiaroraaa&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiiaroraaa&theme=radical"/>|
