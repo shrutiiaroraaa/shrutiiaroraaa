@@ -19,12 +19,17 @@
 ## ABOUT ME
 Self Starter & innovator, Passionate about Coding & Technology as well as shipping my ideas into world, Encouraging others to code through Teaching & mentoring.
 
+
+### My Experiences 🙌
+-    Founder at WomenT
+-    Core Team Member at CodeIn 
+- 🔭 Hacathon Evangelist @Hack This Fall
 - 🍎 AngelHack Student Ambassador
 -    Mentor at Hackeram
 - 🎬 Podcast Host @Atypical Tuesday
 - 👨🏻‍💻 Technical member at The Everyday Community
 -   Chapter Member at The Girl Code
-- 🔭 python Enthusiast
+
 
 
 ## MY GIT STATS
