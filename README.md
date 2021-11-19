@@ -32,3 +32,5 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 |---|---|
 
 - 📫 How to reach me : https://linktr.ee/shruu
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shrutii-karoraaa.shrutii-aroraaa)
