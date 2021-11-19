@@ -31,6 +31,5 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 <img src="https://github-readme-stats.vercel.app/api?username=shrutiiaroraaa&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiiaroraaa&theme=radical"/>|
 |---|---|
 
-- 📫 How to reach me : https://linktr.ee/shruu
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shrutii-karoraaa.shrutii-aroraaa)
