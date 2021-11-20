@@ -1,4 +1,42 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shruti Arora](https://kunal-kushwaha.github.io) 
+
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shruti Arora
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+Developer;Learner;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+
+
+## ABOUT ME
+Self Starter & innovator, Passionate about Coding & Technology as well as shipping my ideas into world, Encouraging others to code through Teaching & mentoring.
+
+## ✍ Blog
+- [A Session on Git and GitHub.](https://dev.to/hackthisfall/a-session-on-git-and-github-hmc)
+
+### MY EXPERIENCES🙌
+- 👯 Founder at WomenT
+- ⚡ Core Team Member at CodeIn 
+- 🔭 Hacathon Evangelist at Hack This Fall
+- 🍎 AngelHack Student Ambassador
+- 🎬 Podcast Host @Atypical Tuesday
+- 👨🏻‍💻 Chapter Member at The Girl Code
+- 📄 
+
+## 🛠 &nbsp;LANGUAGES AND TOOLS
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=shrutiiaroraaa&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiiaroraaa&theme=radical"/>|
+|---|---|
+
+## CONNECT WITH ME
 <a href="https://www.linkedin.com/in/shrutiiaroraaa/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -16,37 +54,11 @@
 </a>
 <br />
 
-## ABOUT ME
-Self Starter & innovator, Passionate about Coding & Technology as well as shipping my ideas into world, Encouraging others to code through Teaching & mentoring.
-
-## ✍ Blog
-- [A Session on Git and GitHub.?](https://dev.to/hackthisfall/a-session-on-git-and-github-hmc)
-
-### MY EXPERIENCES🙌
--    Founder at WomenT
--    Core Team Member at CodeIn 
-- 🔭 Hacathon Evangelist @Hack This Fall
-- 🍎 AngelHack Student Ambassador
--    Mentor at Hackeram
-- 🎬 Podcast Host @Atypical Tuesday
-- 👨🏻‍💻 Technical member at The Everyday Community
--   Chapter Member at The Girl Code
 
 
-## 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
-![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-
-## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=shrutiiaroraaa&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiiaroraaa&theme=radical"/>|
-|---|---|
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shrutii-karoraaa.shrutii-aroraaa)
+
+
+
+
