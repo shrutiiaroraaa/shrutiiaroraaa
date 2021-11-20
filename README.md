@@ -17,7 +17,7 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 - 🍎 AngelHack Student Ambassador
 - 🎬 Podcast Host @Atypical Tuesday
 - 👨🏻‍💻 Chapter Member at The Girl Code
-- 📄 
+
 
 ## 🛠 &nbsp;LANGUAGES AND TOOLS
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
