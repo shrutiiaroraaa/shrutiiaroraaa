@@ -19,6 +19,8 @@
 ## ABOUT ME
 Self Starter & innovator, Passionate about Coding & Technology as well as shipping my ideas into world, Encouraging others to code through Teaching & mentoring.
 
+## ✍ Blog
+- [A Session on Git and GitHub.?](https://dev.to/hackthisfall/a-session-on-git-and-github-hmc)
 
 ### MY EXPERIENCES🙌
 -    Founder at WomenT
