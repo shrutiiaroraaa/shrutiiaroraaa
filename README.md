@@ -43,7 +43,7 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 <a href="https://twitter.com/shrutiiaroraaa">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:shrutiarora.skrm17@gmail.com">
+<a href="mailto:shrutiarora1704@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC2t2-cbSfwJUv86camndWMA">
