@@ -10,7 +10,7 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 ## ✍ Blog
 - [A Session on Git and GitHub.](https://dev.to/hackthisfall/a-session-on-git-and-github-hmc)
 
-### 🙌 MY EXPERIENCES
+## 🙌 MY EXPERIENCES
 - 👯 Founder at WomenT
 - ⚡ Core Team Member at CodeIn 
 - 🔭 Hacathon Evangelist at Hack This Fall
