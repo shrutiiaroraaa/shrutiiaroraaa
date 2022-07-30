@@ -9,6 +9,7 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 
 ## ✍ Blog
 - [A Session on Git and GitHub.](https://dev.to/hackthisfall/a-session-on-git-and-github-hmc)
+- [My Six Months Strategy Plan for Building Up A Community.](https://dev.to/shrutiiaroraaa/my-six-months-strategy-plan-for-building-a-community-1736)
 
 ## 🙌 MY EXPERIENCES
 - 👯 Founder at Hashteq
