@@ -7,15 +7,16 @@
 ## ABOUT ME
 Self Starter & innovator, Passionate about Coding & Technology as well as shipping my ideas into world, Encouraging others to code through Teaching & mentoring.
 
-## ✍ Blog
+## ✍ Blogs
 - [A Session on Git and GitHub.](https://dev.to/hackthisfall/a-session-on-git-and-github-hmc)
 - [My Six Months Strategy Plan for Building Up A Community.](https://dev.to/shrutiiaroraaa/my-six-months-strategy-plan-for-building-a-community-1736)
+- [What Are Codedamn Playgrounds?](https://happycoding17.hashnode.dev/what-are-codedamn-playgrounds)
 
 ## 🙌 MY EXPERIENCES
 - 👯 Founder at Hashteq
-- ⚡ Front-End Developer 
+- ⚡ Front-End Developer at Locgfx
 - 🔭 Technology Evangelist at Hack2skill
-- 🎬 Podcast Host @Atypical Tuesday
+- 🎬 Podcast Host at Atypical Tuesday
 
 
 
