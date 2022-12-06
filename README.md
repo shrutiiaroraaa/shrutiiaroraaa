@@ -13,9 +13,8 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 - [What Are Codedamn Playgrounds?](https://happycoding17.hashnode.dev/what-are-codedamn-playgrounds)
 
 ## 🙌 MY EXPERIENCES
-- 👯 Founder at Hashteq
-- ⚡ Front-End Developer at Locgfx
-- 🔭 Technology Evangelist at Hack2skill
+- 👯 Founder at DevRelo
+- ⚡ Developer Relations at Permissionless
 - 🎬 Podcast Host at Atypical Tuesday
 
 
