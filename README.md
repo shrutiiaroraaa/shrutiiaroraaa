@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Shruti! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Developer Relations at <a href="http://www.unb.br">Permissionless</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building <a href="https://www.thoughtworks.com">DevRelo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Developer Relations at <a href="http://www.unb.br">Permissionless</a><img src="#" width="30"></br>Building <a href="https://www.thoughtworks.com">DevRelo</a><img src="#" width="30"> 
 </em></p>
 
 [![Twitter: ShrutiArora](https://img.shields.io/twitter/follow/shrutiiaroraaa?style=social)](https://twitter.com/shrutiiaroraaa)
