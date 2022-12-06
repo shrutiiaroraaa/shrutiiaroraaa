@@ -21,10 +21,6 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 - [My Six Months Strategy Plan for Building Up A Community.](https://dev.to/shrutiiaroraaa/my-six-months-strategy-plan-for-building-a-community-1736)
 - [What Are Codedamn Playgrounds?](https://happycoding17.hashnode.dev/what-are-codedamn-playgrounds)
 
-## 🙌 MY EXPERIENCES
-- 👯 Founder at DevRelo
-- ⚡ Developer Relations at Permissionless
-- 🎬 Podcast Host at Atypical Tuesday
 
 
 
@@ -42,8 +38,8 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=shrutiiaroraaa&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiiaroraaa&theme=radical"/>|
-|---|---|
+| <a href="https://github.com/shrutiiaroraaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutiiaroraaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shruti's github stats" /></a> | <a href="https://github.com/shrutiiaroraaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiaroraaa&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## CONNECT WITH ME
 <a href="https://www.linkedin.com/in/shrutiiaroraaa/">
