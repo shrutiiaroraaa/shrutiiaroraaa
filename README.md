@@ -1,7 +1,11 @@
+<h2> Hi, I'm Shruti! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Developer Relations at <a href="http://www.unb.br">Permissionless</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building <a href="https://www.thoughtworks.com">DevRelo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shruti Arora
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+Developer;Learner;Open+Source+Enthusiast)](https://git.io/typing-svg)
-
+[![Twitter: ShrutiArora](https://img.shields.io/twitter/follow/shrutiiaroraaa?style=social)](https://twitter.com/shrutiiaroraaa)
+[![Linkedin: ShrutiArora](https://img.shields.io/badge/-ShrutiArora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrutiiaroraaa/)](https://www.linkedin.com/in/shrutiiaroraaa/)
+[![GitHub ShrutiArora](https://img.shields.io/github/followers/shrutiiaroraaa?label=follow&style=social)](https://github.com/shrutiiaroraaa)
 
 
 ## ABOUT ME
