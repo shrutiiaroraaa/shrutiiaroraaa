@@ -1,5 +1,4 @@
-<h2> Hi, I'm Shruti! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2 align="center"> Hi, I'm Shruti! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Developer Relations at <a href="http://www.unb.br">Permissionless</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building <a href="https://www.thoughtworks.com">DevRelo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -7,14 +6,12 @@
 [![Linkedin: ShrutiArora](https://img.shields.io/badge/-ShrutiArora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrutiiaroraaa/)](https://www.linkedin.com/in/shrutiiaroraaa/)
 [![GitHub ShrutiArora](https://img.shields.io/github/followers/shrutiiaroraaa?label=follow&style=social)](https://github.com/shrutiiaroraaa)
 
-### 📫 Like to meet me?
+<h2> 📫 Like to meet me? </h2>
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
 <a href="https://calendly.com/shrutiiaroraaa/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-## ABOUT ME
-Self Starter & innovator, Passionate about Coding & Technology as well as shipping my ideas into world, Encouraging others to code through Teaching & mentoring.
 
 ## ✍ Blogs
 - [A Session on Git and GitHub.](https://dev.to/hackthisfall/a-session-on-git-and-github-hmc)
@@ -41,24 +38,15 @@ Self Starter & innovator, Passionate about Coding & Technology as well as shippi
 | <a href="https://github.com/shrutiiaroraaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutiiaroraaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shruti's github stats" /></a> | <a href="https://github.com/shrutiiaroraaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiaroraaa&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## CONNECT WITH ME
-<a href="https://www.linkedin.com/in/shrutiiaroraaa/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/shrutiiaroraaa">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:shrutiarora1704@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UC2t2-cbSfwJUv86camndWMA">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://dev.to/shrutiiaroraaa">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br />
+<h2>🤝 Support</h2>
 
+<p>🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p>💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p>Made with ❤️ in India</p>
+
+<h1>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 
 
