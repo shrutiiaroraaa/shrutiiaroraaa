@@ -1,10 +1,9 @@
 <h2 align="center"> Hi, I'm Shruti! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Developer Relations at <a href="http://www.unb.br">Permissionless</a><img src="#" width="30"></br>Building <a href="https://www.thoughtworks.com">DevRelo</a><img src="#" width="30"> 
+<p><em>Building <a href="">DevRelo</a> 
 </em></p>
 
-[![Twitter: ShrutiArora](https://img.shields.io/twitter/follow/shrutiiaroraaa?style=social)](https://twitter.com/shrutiiaroraaa)
-[![Linkedin: ShrutiArora](https://img.shields.io/badge/-ShrutiArora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrutiiaroraaa/)](https://www.linkedin.com/in/shrutiiaroraaa/)
-[![GitHub ShrutiArora](https://img.shields.io/github/followers/shrutiiaroraaa?label=follow&style=social)](https://github.com/shrutiiaroraaa)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrutiiaroraaa/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shrutiiaroraaa) 
 
 <h2> 📫 Like to meet me? </h2>
 
@@ -34,19 +33,39 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## MY GIT STATS
-| <a href="https://github.com/shrutiiaroraaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutiiaroraaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shruti's github stats" /></a> | <a href="https://github.com/shrutiiaroraaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiaroraaa&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shrutiiaroraaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h2>🤝 Support</h2>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=shrutiiaroraaa)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p>🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🤝 Support
+
+<p>🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 <p>💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p>Made with ❤️ in India</p>
 
 <h1>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
